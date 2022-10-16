@@ -20,6 +20,13 @@
   "max_damage": 1,
   "min_damage": 0.5,
   "stamina_per_hit": 1
+  },
+    {
+    "id": 4,
+    "name": "посох",
+    "max_damage": 6,
+    "min_damage": 0.5,
+    "stamina_per_hit": 3
   }
 ],
   "armors": [
@@ -40,6 +47,12 @@
     "name": "панцирь",
     "defence": 2.0,
     "stamina_per_turn": 1.6
+    },
+    {
+      "id": 4,
+      "name": "халат",
+      "defence": 1.0,
+      "stamina_per_turn": 1.3
     }
   ]
 }
